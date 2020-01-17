@@ -1,1 +1,1 @@
-all = ['help', 'leaderboard', 'points', 'slack_handler']
+all = ['feedback', 'help', 'leaderboard', 'points', 'reset', 'slack_handler']
