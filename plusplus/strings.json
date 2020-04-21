@@ -1,27 +1,25 @@
 {
   "plus": [
-    "Yay!",
-    "Woot woot!",
-    "Great job!",
-    "_Nice_.",
-    "Woo hoo!",
-    "Awesome!",
-    "Congrats!",
-    ":tada:"
+    ":doge3d: WAGtastic :doge3d:",
+    "FURRific :con-fur-med:",
+    "ConWAGulations! :wagheart:",
+    ":royalty-dog:",
+    "PAWty Time :party-corgi:",
+    ":partytaco:"
   ],
   "plus_points": [
     "{thing} now has {points_string}!",
     "{thing} is up to {points_string}!"
   ],
   "minus": [
+    "Woof.",
     "Womp womp.",
     "Ouch.",
     "Oof.",
+    ":ultimatesadness:",
     "Yikes.",
     ":frowning:",
-    "Bummer.",
-    "Ope.",
-    "Oh no!"
+    "Bummer."
   ],
   "minus_points": [
     "{thing} now has {points_string}.",
@@ -33,9 +31,6 @@
   "self": [
     "Nice try, {thing}",
     "We've got a cheater over here!",
-    "Don't even try me",
-    "Great! You now have -∞ points!",
-    "{thing} has been banned from Slack.",
-    "{thing}--"
+    ":nope:"
   ]
 }
