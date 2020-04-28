@@ -25,7 +25,7 @@ def generate_string(thing, operation):
     else:
         formatted_thing = thing.item
     points = thing.points
-    points_word = ":taco:'s" if abs(points) > 1 else "point"
+    points_word = ":taco:'s" if abs(points) > 1 else ":taco:"
     points_string = f"{points} {points_word}"
     with open("plusplus/strings.json", "r") as strings:
         parsed = json.load(strings)
